@@ -1,3 +1,3 @@
 # Object-detection-and-tracking-project-demo
 
-![](http://i.imgur.com/60bts.gif)
+![](https://github.com/TechFinBrown/Object-detection-and-tracking-project-demo/blob/master/ezgif.com-video-to-gif.gif)
